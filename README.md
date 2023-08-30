@@ -8,4 +8,4 @@ The script will convert in batch mode CIF files in a folder to PDB in outputs_pd
 ## USAGE 
 python script_name.py path_to_CIFS_files_FOLDER/
 
- 2023 Jean-Marie Bourhis 
+ 2023 JMB
