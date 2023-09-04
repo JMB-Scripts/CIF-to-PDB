@@ -1,5 +1,5 @@
 # CIF-to-PDB
-The script will convert in batch mode CIF files in a folder to PDB in outputs_pdbs,
+The script will convert in batch mode CIF files in a CIF-folder to PDB in outputs_pdbs,
 ## Requirements
  - Python 3.x
 ## Python packages:
